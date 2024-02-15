@@ -1,0 +1,38 @@
+Name: Meivenkatkumar Lakshminarayanan
+USC ID: 2638078100
+News site crawled: latimes.com
+Number of threads used for Scrapy: 16
+
+Fetch Statistics
+================
+fetches attempted: 19462
+fetches succeeded: 18168
+fetches failed or aborted: 1293
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3883088
+# unique URLs extracted: 18697
+# unique URLs within News Site: 0
+# unique URLs outside News Site: 18697
+
+Status Codes:
+=============
+200 OK: 18168
+301 Moved Permanently: 1163
+302 Found: 18
+403 Forbidden: 10
+404 Not Found: 102
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~10KB: 16
+10KB ~ <100KB: 387
+100KB ~ <1MB: 18188
+>= 1MB: 106
+
+Content Types:
+==============
+text/csv: 1
+text/html: 18696

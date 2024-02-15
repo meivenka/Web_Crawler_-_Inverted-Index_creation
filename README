@@ -1,0 +1,6 @@
+1. I have used scrapy python.
+2. pipelines.py -> has the code for writing into csv files:
+    Makes it faster as it does not disturb the crawling spiders
+    Goes very easy on the memory usage
+3. items.py -> has the structure for the spider to handle
+4. newsCrawler.py has the crawling rules for the crawler/spiders.
